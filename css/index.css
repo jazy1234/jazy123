@@ -1,0 +1,124 @@
+.bd-navbar {
+    padding: .75rem 0;
+    background-color: #7952b3;
+}
+
+.white {
+    color: white;
+}
+
+.btn-bd-download {
+    font-weight: 600;
+    color: #ffe484;
+    border-color: #ffe484;
+}
+
+.black {
+    color: black;
+}
+
+.carousel-control-prev {
+    align-items: flex-end;
+    justify-content: flex-end;
+    width: 92%;
+}
+
+.carousel-control-next {
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.social-icon li i {
+    margin: 0.5rem;
+}
+
+ul li a {
+    color: white;
+}
+
+.h400px {
+    height: 600px;
+    object-fit: cover;
+}
+
+.blue {
+    color: cornflowerblue;
+}
+
+.list-none {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.text-p-l {
+    position: absolute;
+    right: 67%;
+    bottom: 200px;
+    left: 4%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: left;
+}
+
+.text-p-r {
+    position: absolute;
+    right: 4%;
+    bottom: 200px;
+    left: 63%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: right;
+}
+
+h1 {
+    font-size: 50px;
+    color: mintcream;
+}
+
+.text-p-c {
+    position: absolute;
+    right: -11%;
+    bottom: 243px;
+    left: 23%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    width: 50%;
+}
+
+.width18rem {
+    width: 18rem;
+}
+
+.width15 {
+    width: 12%;
+    border-radius: 50%;
+}
+
+p {
+    font-size: 18px;
+    color: mintcream
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: white;
+    border: 1px solid mintcream;
+    width: 100px;
+}
+
+.carousel-indicators li {
+    background-color: rebeccapurple;
+}
+
+.carousel-indicators {
+    right: 45px;
+    bottom: -54px;
+}
